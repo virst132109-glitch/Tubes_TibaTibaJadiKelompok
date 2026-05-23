@@ -94,7 +94,7 @@ ClosestTarget.cmd
 | Maulana Muhammad Rizki | 124140008 |
 | Krisna Dwi Cristian | 124140152 |
 
-*Kelompok:* TibaTibaJadiKelompok
-*Mata Kuliah:* IF25-21013 Strategi Algoritma
-*Semester:* Genap 2026/2027
+*Kelompok:* TibaTibaJadiKelompok <br>
+*Mata Kuliah:* IF25-21013 Strategi Algoritma <br>
+*Semester:* Genap 2026/2027 <br>
 *Dosen:* Winda Yulita, M.Cs
