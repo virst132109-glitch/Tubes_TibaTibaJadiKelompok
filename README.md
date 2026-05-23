@@ -93,3 +93,8 @@ ClosestTarget.cmd
 | Mochamad Rasya Khairiza | 124140002 |
 | Maulana Muhammad Rizki | 124140008 |
 | Krisna Dwi Cristian | 124140152 |
+
+*Kelompok:* TibaTibaJadiKelompok
+*Mata Kuliah:* IF25-21013 Strategi Algoritma
+*Semester:* Genap 2026/2027
+*Dosen:* Winda Yulita, M.Cs
